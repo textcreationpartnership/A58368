@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on the publick.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58368</idno>
+            <idno type="STC">Wing R711</idno>
+            <idno type="STC">ESTC R214735</idno>
+            <idno type="EEBO-CITATION">99826814</idno>
+            <idno type="PROQUEST">99826814</idno>
+            <idno type="VID">31223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1769:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on the publick.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31223:1" rendition="simple:additions"/>
+            <head>REFLECTIONS on the PUBLICK.</head>
+            <epigraph>
+               <q>
+                  <l>Hunc ſaltem everſo Juvenem ſuccurrere Mundo,</l>
+                  <l>Ne prohibete.—</l>
+                  <bibl>
+                     <hi>To Madam</hi> M.S.</bibl>
+               </q>
+            </epigraph>
+            <p>WHoever conſiders the Contradictions and Hypocriſie of this Age, will think it his Duty to expoſe it to the Indignation of all that have Senſe or Honeſty.</p>
+            <p>Our preſent Diſputes about Religion ſhall be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dlef Sub<g ref="char:EOLhyphen"/>ject of this Diſcourſe, a Subject, which whether it abound in Tragedy or Comedy moſt, I am not able to determine.</p>
+            <p>With what violence are Opinions and Doctrines ſupported and oppos'd, and yet what Unity, what Peace, what Agreement in the Ruines of Debauchery, in Vices that have laid waſte the Age.</p>
+            <p>How is the Eternal Religion become a quarrel and a pretence, a Sacrifice to Hypocriſie, and an Offering to Deſign! and the Beauty of our Natures, and the Guide of our Beings, and the Glory of our Reaſon, expos'd to the Diſ<g ref="char:EOLhyphen"/>courſes and Contempt, to the Villany and Folly of the worſt of Men.</p>
+            <p>The preſent Pretences of the Diſſenters, are ſuch an Attempt upon our Ex<g ref="char:EOLhyphen"/>perience and Memory, that nothing but an utter deteſtation of all Modeſty, and an Aſſociation for the Defence and Propagation of Impudence and Impiety, could ſet them upon another Undertaking of this kind; and if they prevail by our conſent, it muſt be reckon'd no leſſer than a Judgment of Deluſion, a renouncing the firſt Principle of Preſervation, which is concern'd in our Sen<g ref="char:EOLhyphen"/>ſes as well as in our Lives.</p>
+            <p>Theſe honeſt Greeks are bringing their Wooden Horſe a ſecond time before our Walls, for what can be more wooden and brutiſh, than to be impoſtur'd into a belief of the ſincerity and good meaning of our moſt ſubtle and cruel Enemies? This ſecond Horſe can impoſe on nothing but an Aſs.</p>
+            <p>Let the whole World judge, whether this Generation of Men, who when their Principles were governing, and envenom'd with Power, acted ſuch Villa<g ref="char:EOLhyphen"/>nies as the Pagans are yet to learn, and that drew the beſt Copy of the <hi>Jews</hi> Original, and who approv'd in cold Blood, what they did in hot, be fit to re<g ref="char:EOLhyphen"/>form our Church of <hi>England,</hi> I mean the Diſſenters from it and Humanity. I allow them fit Men to Reform our Lives and Fortunes, but not to mend our Religion or Manners, which I wiſh were done by a good hand directed by the hand of God.</p>
+            <p>'Tis not my Deſign to write the Hiſtory of the late Times, or to Satyr thoſe Men that have ſet themſelves beyond the reach of Charity, and expos'd them<g ref="char:EOLhyphen"/>ſelves to the ſevereſt Hiſtories, my Deſign is to prevent our being abus'd by them any more, a Prudence we are oblig'd to, as well as to the Charity of forgiving what is paſt, and we will keep what is paſt in our Memory, not for their Evil, but for our own Good.</p>
+            <p>They muſt have a very mean Opinion of our Judgment, and Care of our ſelves, to make this preſent Attempt upon our Religion, under the pretence of makeing it Holier.</p>
+            <p>That Men that have digeſted ſuch vaſt Impieties, that compos'd a new body of Wickedneſs, that thoſe Religions (for ſuch they will be call'd) that gave the
+<pb facs="tcp:31223:2"/>Reign to Murder and Rabble Tyranny, to confuſion and ſlaughter, ſhould pretend our Church of <hi>England</hi> is not Holy enough to receive them, is enough to enrage the Charity of the meekeſt Chriſtian, and to Arm the Reaſon and Paſſion of all the ſenſible World, againſt ſuch impudent Wickedneſs, and un<g ref="char:EOLhyphen"/>veil'd Hypocriſie.</p>
+            <p>In the very act of crying out againſt Idolatry, at what a rate did they commit Sacriledge, and many of them that broke down the Carv'd Work of our Churches with Axes and Hammers, are now pretending to beautifie them.</p>
+            <p>But we have not ſo learnt the uſe of our Senſes, as to believe ſuch Men as theſe; if what they have even now done in <hi>Scotland,</hi> be not ſufficient to warn <hi>England,</hi> then nothing is.</p>
+            <p>If the zeal of theſe men be ſo exceſſive as they pretend, let them give it a vent in Charity and good Works, in Reforming their own Conſciences and Religions; in Modeſty and Obedience: let them pull out the Beams, and throw up the Camels they have ſwallow'd, and when they have done this, let them pull the Motes out of our Eyes, and the Gnats out of our Stomachs.</p>
+            <p>I am not fond of this Theme, I don't want Charity for their Perſons, but to beſtow it on their lewd Deſigns, and their Abſtract Wickedneſs, would be a great abuſe of the beſt thing in the world.</p>
+            <p>If they are at this minute rakeing amongſt our Holy Things, to find where<g ref="char:EOLhyphen"/>withall to object and upbraid us, they cannot eaſily take it ill, if we remonſtrate to them their Gyant Wickedneſſes, and firſt rate Sins, eſpecially when pro<g ref="char:EOLhyphen"/>vok'd by ſuch loathſom and Atheiſtical Hypocriſie.</p>
+            <p>Let them go on in their Attempts, and we will go on in our Guard and Caution againſt ſuch men, we will hold faſt our Prudence and Integrity, as long as they ſhall their profligate Hypocriſie, and bold Attempts.</p>
+            <p>The Gentleman that writ the late <hi>Secret Hiſtory</hi> of King <hi>Charles,</hi> and King <hi>James</hi> the Second, charges the firſt of the Royal Seconds, with diſſem<g ref="char:EOLhyphen"/>bling particularly with the Diſſenters; let the Objection periſh with the Hiſtory, and may the man that writ it, live to recover his Modeſty and Reaſon.</p>
+            <p>
+               <hi>Quanto Rectius ille,</hi> how much more like a Gentleman, and a man of Senſe and Morality and Breeding, does the Author of the new Obſervator vail the Nakedneſs of that Prince, who was once the Father of this <hi>Ham,</hi> who has expos'd him as if he had Raviſht his Mother, and begot the Secret Hiſtorian, without his or his Mothers Conſent, in the ſame mad fury that he begot his Hiſtory or long Proſy Ballad of King <hi>Charles</hi> and King <hi>James.</hi>
+            </p>
+            <p>Had he charg'd the Diſſenters with the groſſeſt diſſembling with the firſt and ſecond <hi>Charles,</hi> no man could ever have contradicted him, but 'twas not his buſineſs ſo much to ſpeak Truth, as to lay the durt thick. I dare appeal to the Author of this Hiſtorical Lampoon, whether he has not receiv'd large Correction from his own mind, for what he has writ.</p>
+            <p>But it will never lye in this mans Power to give a tollerable figure to the Diſſenters, and however he may blacken King's, he can never whiten them, tho' one was his aim as much as t'other.</p>
+            <p>Nor is it my Deſign to charge the Diſſenters alone with the folly and bold pretences of the preſent time, Religion ſeems on every hand to be dealt with far otherwiſe than it ought; for on all hands the Temporal Intereſts that attend her, are watcht and ſecur'd with the utmoſt Diligence: No Policy, no Ad<g ref="char:EOLhyphen"/>dreſs omitted to ſecure its Conſtitutions, becauſe they ſecure its Revenue; but for its Manners, for the ſeverities of life it enjoyns, how little are all
+<pb n="3" facs="tcp:31223:2" rendition="simple:additions"/>Parties concern'd! are not we over-run with Ruin and Debauchery? Is not the <hi>Engliſh</hi> Name and Character efac'd with Vice and Folly? Is not even the Civil Virtue and Genius of the Nation extinct with the Infamy of a general Wickedneſs? Allegiance, Divine and Humane, Humility and Love, Modeſty and Chaſtity, Charity and Devotion, are eſteem'd Arbitrary and Indifferent things, to be practis'd or omitted as we think fit. And where is the Zeal? Where are the efforts for the Recovering theſe cancell'd Duties? But to Aboliſh or preſerve a Ceremony or Notion, What Zeal! What Contention! What Parties! What Animoſities! If their meaning were honeſt, 'tis certain they would be employ'd in other Buſineſs, they would promote a Union in the practice of Religion, in the performing thoſe Duties in which all Parties are agreed; the Eternal rewards of another life, would charm us beyond the Intereſt of this, and we ſhould take more care to go well out of the World, than to live well in't. If this zeal pretended by all Parties were Heavenly and Real, the Everlaſting Glories of the upper World, the Beauty of God, the Charms of Vertue, would heat and provoke us to take other Meaſures for our Eternity, to build other Lives, and draw another Scheme of Manners and Practice. In<g ref="char:EOLhyphen"/>ſtead of contending for the demoliſhing or ſupport of a Ceremony, we would receive the Stranger as the Brother of our Nature, and cheriſh him as our own Fleſh, and cover his wants with Joy; we would draw out our Souls to the Miſerable, and be in pain till we had reliev'd him; the Charity of Angels would inflame our Breaſts, and we ſhould burn with love to our Brother, we ſhould be in pain till the Captive were Redeem'd, till the Oppreſſed were Reliev'd, and the Miſerable at Eaſe; theſe things would teſtifie our Religion, they would witneſs and demonſtrate our ſincerity, for theſe Fruits ſeldom proceed but from an honeſt and good Heart.</p>
+            <p>Our Religion would then put on its Primitive Glory, and ſhine radiant in its Antient Flames, Heathens would again behold us with wonder, and be<g ref="char:EOLhyphen"/>come Proſelytes to the conviction and demonſtration of our Practice, the Sun would behold us with a kinder ſtrength, and maintain a more fruitful cor<g ref="char:EOLhyphen"/>reſpondence with this neither world, the Seaſons would again obſerve their diſorder'd courſes, and all Nature would recover a new Strength and Vi<g ref="char:EOLhyphen"/>gour, the Land would yield its Strength, and the Earth would bring forth its Encreaſe, <hi>and God even our own God would give us his Bleſſing.</hi>
+            </p>
+            <p>The Triumphs of Martyrdom, and the Glories of Confeſſion, (if occaſion were,) would again revive, and the whole Earth would become a Holy Land, as far as theſe practices were diſſus'd: the Angels would deſcend with joy, and return with Triumphs, and the boaſted Ages deceas'd, would no longer upbraid the Folly and Miſery of the preſent.</p>
+            <p>And till this be attempted, in vain do we talk of Religion, in vain expect the wondrous Bleſſings that attend it. If the intereſts of ſincere and effectual Religion were not ſo far Superior to thoſe of a falſe pretended one, if this World could court us, and make ſuch propoſals as the other does, if its Meaning and Rewards were Eternal, if it could ſatiate the Infinite Deſires of a Soul, that are as unmeaſurable as Eternity it ſelf, we might with ſome pre<g ref="char:EOLhyphen"/>tence quit the offers and purſuits of the upper world.</p>
+            <p>But when of the one hand there is nothing offered but Deluſion and Sorrow, and to the greateſt Men, and thoſe that have made moſt of this World, nay even thoſe Deluſions, if there be any comfort or ſupport in 'em, will not laſt long. tho' the ſorrows will; if we are entertain'd with falſe propoſitions and real cheats, with Arguments unworthy of Children, or the ſtupidity of Beaſts, if
+<pb n="4" facs="tcp:31223:3"/>we are oppreſt with the Experience and warning of ſo many Ages paſt, the Judgment of all Religions and Philoſophy, that have pretended to any Reaſon or Sobriety, if every one goes Arm'd with the Syllogiſms of his own Experi<g ref="char:EOLhyphen"/>ence, and moſt, with the Demonſtrations of Miſery and Ruine, why are we any longer baffled with the lean pretences of Vice and the World, why are we again repeating the ruinous Experiment, and practiſing on our own Deſtruction.</p>
+            <p>Let us behold Virtue and the upper World, Religion and Glory, with other Eyes than hitherto we have done, let peace of Mind charm, let the Miniſtry and Attendance of Angels, warm our Ambition, let Palaces, and Crowns, and an Eternal Empire and Kingdom provoke our Glory, let us chafe our Minds with Everlaſting expectations, and enrage 'em at the darkneſs, and diſappointments, and deformity of Vice and this lower World.</p>
+            <p>And while Kings are preparing to meet like the <hi>Northern</hi> Winds, ſtriving who ſhall have the lar<g ref="char:EOLhyphen"/>geſt Care, and the heavieſt Crown, and the greateſt weight of fall, let all that are Wiſe ex<g ref="char:EOLhyphen"/>pend a better Intereſt, and purſue a truer Glory; let them extend the Empire of Vertue, over all the Follies of Vice, and then celebrate the Triumphs of a real Conqueſt of the World.</p>
+            <p>Thus employ'd, our zeal will have firm effects, and produce Fruits worthy of its warmths, and becoming its true Nature, we ſhall act like men Baptiz'd to the Philoſophy of Chriſt, and train'd up to another World, we ſhall aſſert the Glory of our Nature, and the Divinity of our Souls, Angels will aſſiſt us with Joy, and the reſult of our Labour, would be Peace, and Joy, and Tranſport, even in this Life, and a fermented and unruly Happineſs, in expectation of the Joys of Eternity, for the other World would often break in upon us even before Death, our Peace would be as the River, and our Righteouſneſs as the Waves of the Sea, and the Glory of the Lord would be our Rereward.</p>
+            <p>But if the Vigour and Spirits of our Zeal and Religion, be exhauſted in circumſtantials, and leſſer Matters, (to which I allow their juſt weight and decent Importance, as our Saviour did to the Tyth of Mint) and that what we have done in defending them, ought not to have been left undone, yet if our Religion dwells there, and flames out in nothing elſe, it gives Argument of the greateſt ſuſpition that our Deſign is none of the beſt, and our Religion none of the ſincereſt, for that would carry us to farther and weightier inſtances of our Piety, that would carry the face of another World in them, and an Immortal Deſign.</p>
+            <p>If we pretend to a Zeal that's worthy our Profeſſion, let's ſet on other Lives, let Purity and Chaſtity, let Heavenly Mindedneſs, and contempt of the World, Triumph in our Manners, and let Vice be the Object of our Rage and Scorn, till then all our Impertinent or Knaviſh warmths for or againſt a Form, or an Eſtabliſhment, or a Ceremony, will ſignifie nothing but to manifeſt that we are not in earneſt with our Religion, and that there is nothing ſincere but our Hypocriſie.</p>
+            <p>If we have any value for the Happineſs of the World, if we think it worth the while to re<g ref="char:EOLhyphen"/>trieve the Honours of the Humane Nature, and to ſtop the Inundations of Ruine and Shame, and the diſſolution of Manners and Society, and the total extinction of our Reaſon and Happineſs, let us remember whereunto we were Baptiz'd, let the Solemnities of thoſe Sacraments we have paſt, and the Religion of our Vows, ſet us upon other Manners, and give us other Deſigns, and bet<g ref="char:EOLhyphen"/>ter Lives. It's no mean Enterpriſe (with the aſſiſtance of God's Spirit) to retrieve a dying World, and reſtore the Humane Nature in its laſt Agony and Convulſion of Ruine and Shame. All that concur to this work will be greater employ'd than the wild <hi>Macedonian,</hi> or the firſt <hi>Coeſar,</hi> who labour'd to deſtroy the Fabrick of the World, and gave Mankind to the Sword, and Peace and Order, to their Rage and Folly, that our Hiſtories might be full of their Fury and Miſchiefs, and Poſterity be troubled with their Names and Follies.</p>
+            <p>But the Progreſſes we make in Virtue, and the Advantages we procure it in the World, are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, worthy our Inſtitution, and becoming our Baptiſm, and the Sacraments of the New Teſtament. Here we ſhew the Genius of our Maſter, who train'd us up to another World, and bid us purſue Immortal Rewards, and an Eternal Heaven, he has trod the rough and glorious Path before us, he himſelf engag'd all the difficulties he has propos'd to us, and ſhewd us how to practice, and taught us how to live, and how to dye, and how to live for ever.</p>
+            <p>Thus we ſhall Triumph over the World, and our ſelves, and Folly, and Miſery, and ſhall live in the Joy of Angels, and the Wiſdom of Men, and the Comforts of the Holy Ghoſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
